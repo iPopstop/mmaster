@@ -1,0 +1,15 @@
+{
+  "discord": {
+    "webhook": {
+      "id": "",
+      "token": ""
+    },
+    "bot": {
+      "token": ""
+    }
+  },
+  "vk": {
+    "peer_id": "",
+    "token": ""
+  }
+}
